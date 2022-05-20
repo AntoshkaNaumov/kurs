@@ -14,3 +14,7 @@ include/
 
 
 *.json
+
+
+*.cfg
+
